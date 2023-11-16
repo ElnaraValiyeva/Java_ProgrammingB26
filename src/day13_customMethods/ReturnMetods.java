@@ -29,7 +29,10 @@ public class ReturnMetods {
     }
 
     public static boolean isEven(int num){
-        return !isOdd(num);
+       if(num % 2 ==0){
+           return true;
+       }
+       return false;
     }
 
 

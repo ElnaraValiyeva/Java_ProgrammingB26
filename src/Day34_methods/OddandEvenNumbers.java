@@ -4,9 +4,9 @@ public class OddandEvenNumbers {
 
     public static void main(String[] args) {
         int num1 = 100;
-        oddOrEven(100);
+        oddOrEven(5);
 
-        int num2 = 35;
+        int num2 = 6;
         oddOrEven(num2);
 
         int age = 50;
